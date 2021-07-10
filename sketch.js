@@ -73,7 +73,7 @@ let b = createP('C E L L - W I D T H');
 b.style('font-size', '16px');
 b.position(105, 242);
 b.style('color', '#000000');
-wSlider = createSlider(18,100,2);
+wSlider = createSlider(12,100,2);
 wSlider.position(80,283)
 wSlider.style("width","180px")
 wSlider.addClass("mySliders");
@@ -84,7 +84,7 @@ let c = createP('C E L L - H E I G H T');
 c.style('font-size', '16px');
 c.position(105, 334);
 c.style('color', '#000000');
-hSlider = createSlider(18,100,2);
+hSlider = createSlider(12,100,2);
 hSlider.position(80,380)
 hSlider.style("width","180px")
 hSlider.addClass("mySliders");
@@ -121,7 +121,7 @@ drp.option(' 3. D y n a m i c - BG');
 drp.changed(changeOp);
   
   
-let v = createP('A R R A Y - G R I D');
+let v = createP('C E L L - S I Z E');
 v.style('font-size', '16px');
 v.position(90, 434);
 
