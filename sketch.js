@@ -143,7 +143,7 @@ function draw()
 
   // Assign the respective values
   nam=input.value();
-  let yor=nam;
+  let yor=nam[0];
   let oru;
   oru=changeOp();
   tileWidth=wSlider.value();
