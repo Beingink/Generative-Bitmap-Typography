@@ -35,7 +35,7 @@ g.style('font-size', '30px');
 g.position(80, 12);
 g.style('color', '#5500cc');
 
-let g1 = createP('T Y P O G R A P H Y');
+let g1 = createP('T Y P E F A C E');
 g1.style('font-size', '30px');
 g1.position(80, 44);
 g1.style('color', '#5500cc');
