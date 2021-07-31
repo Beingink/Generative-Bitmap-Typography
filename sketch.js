@@ -30,7 +30,7 @@ frameRate(25);
     
   
 
-let g = createP('D I S S O C I A T I V E');
+let g = createP('D I S S O S C I A T I V E');
 g.style('font-size', '30px');
 g.position(80, 12);
 g.style('color', '#5500cc');
