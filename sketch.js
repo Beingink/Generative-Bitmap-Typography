@@ -31,12 +31,12 @@ frameRate(25);
   
 
 let g = createP('D I S S O C I A T I V E');
-g.style('font-size', '30px');
+g.style('font-size', '31px');
 g.position(80, 12);
 g.style('color', '#5500cc');
 
 let g1 = createP('T Y P E F A C E');
-g1.style('font-size', '30px');
+g1.style('font-size', '31px');
 g1.position(80, 44);
 g1.style('color', '#5500cc');
   
